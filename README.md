@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9a3c3c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b74e4e&size=35&center=true&vCenter=true&width=1000&lines=Hi+folks,+my+name's+Alisson+D+Silva;I'm+19+years+old;I'm+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b74e4e&size=35&center=true&vCenter=true&width=1000&lines=Hi+folks,+my+name's+Alisson+D+Silva;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+a+Python+programmer...;I've+B1+in+English,;+C1+in+Spanish;I+currently+study+Machine+Learning+and;+Web+Development;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dhytm&show_icons=true&count_private=true&hide_border=true&title_color=b74e4e&icon_color=b74e4e&text_color=c9d1d9&bg_color=0d1117" alt="Alisson D Silva github stats" /> 
@@ -18,11 +18,10 @@
 </div>
   
 
-### Some skills:
+### Tags:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 
