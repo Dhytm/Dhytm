@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9a3c3c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b74e4e&size=35&center=true&vCenter=true&width=1000&lines=Hi+folks,+my+name's+Alisson+D+Silva;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+a+Python+programmer...;I've+B1+in+English,;+C1+in+Spanish;I+currently+study+Machine+Learning+and;+Web+Development;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b74e4e&size=35&center=true&vCenter=true&width=1000&lines=Hi+folks,+my+name's+Alisson+Silva;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+a+Python+programmer...;I've+B1+in+English,;+C1+in+Spanish;I+currently+study+Machine+Learning+and;+Web+Development;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dhytm&show_icons=true&count_private=true&hide_border=true&title_color=b74e4e&icon_color=b74e4e&text_color=c9d1d9&bg_color=0d1117" alt="Alisson D Silva github stats" /> 
